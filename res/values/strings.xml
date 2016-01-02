@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Blackstorm</string>
+    <string name="title_section1">Lights</string>
+    <string name="title_section2">Ping</string>
+    <string name="title_section3">Section 3</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_lights_off">Lights Off</string>
+    <string name="action_lights_on">Lights On</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
